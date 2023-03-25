@@ -1,0 +1,2049 @@
+fileFormatVersion: 2
+guid: 226ce4c42374b5047983ab50179ffc8f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cryptocurrency_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 528
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f1b2aac2a6b6242a06a14d34dedb38
+      internalID: 1468733979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 528
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af120ca196095324aa05431a051c6426
+      internalID: 269146209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 528
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892fb56879e9ee49b0f9c0b4028f1ea
+      internalID: -978667385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 528
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b696284d0aa340459f2a61773281179
+      internalID: -2062132425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 551
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a86222f937db439992aa9ee4b1d80
+      internalID: -1593114908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcac8fb7e5617245ac909ce179b7c32
+      internalID: 311920115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 525
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5e9902ecd7ef49b696d8e2be23a75
+      internalID: 34506390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 527
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad1bfffd6aff445967fafeeb592177
+      internalID: -2031874671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 531
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa56fe26c10a194ebaf2f6d151af947
+      internalID: -2136263082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_9
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 528
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6350a30acbe01e0469826da308d63243
+      internalID: -1040392292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 526
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2abd81dbd55c74090d313407aa95de
+      internalID: 764163970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 546
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a4f5604d252948b46f9e242835f10
+      internalID: -470202079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 529
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eef6423ddad724a8c463948c0ec563
+      internalID: 964170522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 540
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f33fff6932464cb48c9b96b5260d8
+      internalID: -1574038879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 531
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe5a68fa59fff48a5ed5624880677d
+      internalID: -916744079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 449
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89260d86e8dc28c4d9c0576b5aa5846f
+      internalID: 500202466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 449
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b2889cb7a0b284fade8fc033da9937
+      internalID: 1739826582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 449
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d38c1fcc67a2514e860f41eae6efdf5
+      internalID: 683898939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 483
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef73b9b3198144fa084270e8227af8
+      internalID: 279490498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 489
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe245daade3c4e4599ce8fdb140d096
+      internalID: -1030141875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 483
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754e02016d3353d4492f1fb0c7ea0d67
+      internalID: -2012213419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 449
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54941ab797641fd4093438c26a720fcd
+      internalID: -417159602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 446
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a7f5bfd4923a4781648f2121d4bd9
+      internalID: 1700008272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_23
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 446
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d05608b2055824b955985594053e94
+      internalID: 1516710424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_24
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 446
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95307fc5acb80947b68b8d8d433f351
+      internalID: 1491251521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 446
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962868fa9ecb7fa41b170cd9736e3dc5
+      internalID: -1066203346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_26
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 445
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd7a4aa8ffb2e4fb7bf29d8b0c89f9
+      internalID: -1765205625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 479
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b306cbf8a70d9cd4a885d77c0eff4b9d
+      internalID: 348665263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 457
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0ac9acf6a20a4483704f8b3ef487a
+      internalID: -2042939666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 479
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099812b834335164c982b36cb8e2de1f
+      internalID: -2040548636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 469
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5be9102c3684cf4eab0700fe18f61cd
+      internalID: 1210457094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 469
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bbb063fa3d21049be1a5f3de1c0aad
+      internalID: 1264747189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe89df4508575b842929b08543c5516e
+      internalID: -158501531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 460
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1ba576b11bcfe41a91abd939065492
+      internalID: -1431040492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 452
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11245e36aa4cf214cbdbb5164d979138
+      internalID: 2123021343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 451
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1035b4e91910254bbacf37f5f9cb08c
+      internalID: -1943504790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 452
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9ed3ccd7e01041bb061213e957483
+      internalID: -660201506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 369
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afec820aff2fe4ab059ed818a9a85f
+      internalID: 1467926193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 369
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b5b8dbf78e6444a33b1b6258cff43
+      internalID: 304065478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 369
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e6c7e84db2d5444a9a8b8062f8aa65
+      internalID: -1626430155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33906273674453440a4f3b790ae2f94e
+      internalID: 1685592393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_41
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0208d9065ef84c24f8cbd6e1bc459c4a
+      internalID: -1269173763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_42
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 365
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceb73443a7932a4fb3ec7e5b81d6bdb
+      internalID: 280981843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 366
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f2d15a259bfd45b9bb354ca32d8a5
+      internalID: -693292680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_44
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 365
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6effb7d390934692481214f3c9d36
+      internalID: -1305303139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_45
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 366
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d73af0d8e7e934099f6ca1df788f17
+      internalID: 893402984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_46
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 367
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548c742b7d0f90745a73267e779dcfbc
+      internalID: -1662056760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 283
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df639b24ef9cfd44ad9b98a69cda71a
+      internalID: -1023389945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 283
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba83bedc2828eb49aa1403677268318
+      internalID: -1544303409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_49
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 286
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c2e692d8560241a5fa29b659be6cf
+      internalID: 1435572465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15765c469e43c2f4c9706b27d764536b
+      internalID: 591864933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_51
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 283
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e68d89966f09142bb3fd2e122e5621
+      internalID: 318642098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09306506385d42146a8ecbf0079b9ac5
+      internalID: -966047827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eeda65b6ff95646a4b04761cded92c
+      internalID: 1902782505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_54
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 284
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b7a0aaf4450484aa3fff3210ea07f2
+      internalID: -458680115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_55
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 284
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65482ee482edf864f98552ad43a7c779
+      internalID: 2034880857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_56
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 283
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d93e80b0f3670409a76333d6f83ce2
+      internalID: 964524482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 198
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b62fb35764b7b488523281be3db0e2
+      internalID: 699973643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f74c2add9dc06449256190f3475842
+      internalID: -1184678735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_59
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 199
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7effdf7b3e70ac4468aa75365a1fc04e
+      internalID: -1354557245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 199
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006ad3ceb6dfdb4cb7945baa1685bca
+      internalID: 1557330775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_61
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 198
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cf5298e87cd254599a3bbd2873daa3
+      internalID: -808254065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_62
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 198
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6469de393ecd1ff4bbdb76e404881ec6
+      internalID: -1648456118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_63
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 198
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b571c231050671049870217e7d76a55f
+      internalID: -481073323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_64
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 199
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e464108ae215142b3f3ec5de99c54f
+      internalID: 173054992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_65
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 198
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19de1bb10c32b8547b00081180328ad5
+      internalID: 381267454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_66
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 203
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d825e6e8fa1414799e017c69bd1d34
+      internalID: 1272953659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_67
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 114
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bfbdf148ee3d549945aa2d4abd2314
+      internalID: 2019734038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 115
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a655f80868cd61c4aa3298edf0288622
+      internalID: -1507478743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_69
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 114
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3416c924dd883d14ea4adc450714cadc
+      internalID: -112493860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 115
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafe6ee915210624892a08e77032609a
+      internalID: 1513775200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 116
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a494fd52a31a6409cd7cd3ff6319c8
+      internalID: -1919662824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_72
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 114
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1329a4ba2bc8ba45a9ea6b75ab3ed88
+      internalID: 684724320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 114
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201958edc3c34f5448ca74e4a4bc8b14
+      internalID: -1365365464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_74
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 114
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10e90d93cd8a1468bd61e306040f5c
+      internalID: 1040115760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_75
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 115
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd89579c76c7240af0872f9f9d6c1e
+      internalID: -160239695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_76
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 116
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d6a346fe3008d468e3a49fcea76977
+      internalID: -627105780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_77
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4dc01bdd8be7b458b0403a1db933f2
+      internalID: -116365088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 28
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d32130f901d794086378c213142358
+      internalID: 1142712716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_79
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 31
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d529dbdb33192c14980cd1ec8ff71ed3
+      internalID: -2081797897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_80
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 29
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f790ef844915947bb757df75770681
+      internalID: 1407697896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_81
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 28
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f169dc5a0a2cc8e4fb4086a6d4114c70
+      internalID: 1411972677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_82
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 26
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2fc85388cd5f247abb7be4924990b4
+      internalID: -1764972036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_83
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 27
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d78cade12d99146b7e50d72461e1c4
+      internalID: 1406176594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_84
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 26
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d43dd4e1b52bd4593a99b73c706b20
+      internalID: -538120142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_85
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 28
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dabdbc31e5554418d9f90e71ef3f87
+      internalID: 1362206854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cryptocurrency_86
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 29
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1090afc87fe824f91832a0ec207cfb
+      internalID: -326773092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 40127a03cabd6b5469a72ef03d7cf6b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cryptocurrency_8: -2136263082
+      cryptocurrency_27: 348665263
+      cryptocurrency_73: -1365365464
+      cryptocurrency_19: -1030141875
+      cryptocurrency_69: -112493860
+      cryptocurrency_60: 1557330775
+      cryptocurrency_40: 1685592393
+      cryptocurrency_84: -538120142
+      cryptocurrency_80: 1407697896
+      cryptocurrency_58: -1184678735
+      cryptocurrency_12: 964170522
+      cryptocurrency_81: 1411972677
+      cryptocurrency_65: 381267454
+      cryptocurrency_37: 1467926193
+      cryptocurrency_0: 1468733979
+      cryptocurrency_83: 1406176594
+      cryptocurrency_18: 279490498
+      cryptocurrency_28: -2042939666
+      cryptocurrency_59: -1354557245
+      cryptocurrency_39: -1626430155
+      cryptocurrency_52: -966047827
+      cryptocurrency_77: -116365088
+      cryptocurrency_63: -481073323
+      cryptocurrency_43: -693292680
+      cryptocurrency_32: -158501531
+      cryptocurrency_2: -978667385
+      cryptocurrency_51: 318642098
+      cryptocurrency_55: 2034880857
+      cryptocurrency_30: 1210457094
+      cryptocurrency_26: -1765205625
+      cryptocurrency_38: 304065478
+      cryptocurrency_21: -417159602
+      cryptocurrency_75: -160239695
+      cryptocurrency_46: -1662056760
+      cryptocurrency_50: 591864933
+      cryptocurrency_61: -808254065
+      cryptocurrency_14: -916744079
+      cryptocurrency_34: 2123021343
+      cryptocurrency_71: -1919662824
+      cryptocurrency_62: -1648456118
+      cryptocurrency_3: -2062132425
+      cryptocurrency_22: 1700008272
+      cryptocurrency_78: 1142712716
+      cryptocurrency_47: -1023389945
+      cryptocurrency_15: 500202466
+      cryptocurrency_68: -1507478743
+      cryptocurrency_56: 964524482
+      cryptocurrency_72: 684724320
+      cryptocurrency_20: -2012213419
+      cryptocurrency_5: 311920115
+      cryptocurrency_45: 893402984
+      cryptocurrency_7: -2031874671
+      cryptocurrency_10: 764163970
+      cryptocurrency_57: 699973643
+      cryptocurrency_16: 1739826582
+      cryptocurrency_24: 1491251521
+      cryptocurrency_31: 1264747189
+      cryptocurrency_79: -2081797897
+      cryptocurrency_33: -1431040492
+      cryptocurrency_76: -627105780
+      cryptocurrency_6: 34506390
+      cryptocurrency_25: -1066203346
+      cryptocurrency_35: -1943504790
+      cryptocurrency_49: 1435572465
+      cryptocurrency_17: 683898939
+      cryptocurrency_4: -1593114908
+      cryptocurrency_82: -1764972036
+      cryptocurrency_66: 1272953659
+      cryptocurrency_67: 2019734038
+      cryptocurrency_44: -1305303139
+      cryptocurrency_54: -458680115
+      cryptocurrency_86: -326773092
+      cryptocurrency_36: -660201506
+      cryptocurrency_53: 1902782505
+      cryptocurrency_23: 1516710424
+      cryptocurrency_64: 173054992
+      cryptocurrency_13: -1574038879
+      cryptocurrency_74: 1040115760
+      cryptocurrency_85: 1362206854
+      cryptocurrency_41: -1269173763
+      cryptocurrency_42: 280981843
+      cryptocurrency_9: -1040392292
+      cryptocurrency_70: 1513775200
+      cryptocurrency_11: -470202079
+      cryptocurrency_1: 269146209
+      cryptocurrency_29: -2040548636
+      cryptocurrency_48: -1544303409
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
