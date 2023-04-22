@@ -63,13 +63,13 @@ public class Catapult : MonoBehaviour
 
         _currentBird.GetComponent<Collider2D>().enabled = true;
         _currentBird.GetComponent<BirdPath>().enabled = true;
-        Vector2 direction = (transform.position - _currentBird.transform.position);
+        Vector2 direction = transform.position - _currentBird.transform.position;
         float force = direction.magnitude / _maxDistanceFromCatapult;
         if (!_currentBird.TryGetComponent(out Rigidbody2D rigidbody))
-            rigidbody = gameObject.AddComponent<Rigidbody2D>();
+            rigidbody = _currentBird.AddComponent<Rigidbody2D>();
+        rigidbody.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
         rigidbody.gravityScale = 1;
         rigidbody.AddForce(direction.normalized * _impulse * force, ForceMode2D.Impulse);
-
 
         _currentBird = null;
 	}
