@@ -12,6 +12,7 @@ public class DestroyPigOnEndHealth : MonoBehaviour
 
 	private void OnHealthEnd()
 	{
+		Instantiate(_destroyEffect, transform.position, Quaternion.identity);
 		Destroy(gameObject);
 	}
 }

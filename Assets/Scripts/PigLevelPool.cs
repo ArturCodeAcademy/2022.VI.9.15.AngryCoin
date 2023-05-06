@@ -14,9 +14,12 @@ public class PigLevelPool : MonoBehaviour
 		_pigs = new HashSet<Transform>();
 	}
 
-	public void Add(Transform pig) => _pigs.Add(pig);
+    public void Add(Transform pig)
+    {
+        _pigs.Add(pig);
+    }
 
-	public void Remove(Transform pig)
+    public void Remove(Transform pig)
 	{
 		_pigs.Remove(pig);
 		if (_pigs.Count <= 0)
